@@ -15,7 +15,7 @@
 			</tr>
 			<tr>
 				<td id="mainnav">
-					<div class="menuitem">menu 1</div>
+					<div class="menuitem">About Us</div>
 					<div class="menuitem">menu 2</div>
 					<div class="menuitem">menu 3</div>
 					<div class="menuitem">menu 4</div>
