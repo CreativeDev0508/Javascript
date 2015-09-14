@@ -29,7 +29,7 @@
 						<span class="menuitem">search</span>
 					</div>
 					<div id="divStatus" class="status">
-						status message
+						this is a status message in test1 branch
 					</div>
 					<div id="divContent">
 						Content space
