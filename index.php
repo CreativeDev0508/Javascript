@@ -3,14 +3,14 @@
 		<title>Index</title>
 		<link rel="stylesheet" href="css/style.css">
 		<script>
-			
+
 		</script>
 	</head>
 	<body>
 		<table>
 			<tr>
 				<td colspan="2" id="pageheader">
-					Application Header
+					Software Engineering
 				</td>
 			</tr>
 			<tr>
@@ -26,7 +26,7 @@
 						<span class="menuitem" >page menu 2</span>
 						<span class="menuitem" >page menu 3</span>
 						<input type="text" id="txtSearch" />
-						<span class="menuitem">search</span>		
+						<span class="menuitem">search</span>
 					</div>
 					<div id="divStatus" class="status">
 						status message
@@ -58,4 +58,4 @@
 			</tr>
 		</table>
 	</body>
-</html>	
+</html>
