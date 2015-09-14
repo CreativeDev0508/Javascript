@@ -29,11 +29,7 @@
 						<span class="menuitem">search</span>
 					</div>
 					<div id="divStatus" class="status">
-<<<<<<< HEAD
 						this is a status message in master branch
-=======
-						this is a status message in test1 branch
->>>>>>> test1
 					</div>
 					<div id="divContent">
 						Content space
